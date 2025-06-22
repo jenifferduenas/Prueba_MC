@@ -1,3 +1,4 @@
 ¡HOLA MUNDO!
 
-Programación Avanzada
+Informe de Git para Fin de Ciclo.
+Informe sobre los pasos que seguirá el equipo de desarrollo en gitHub
