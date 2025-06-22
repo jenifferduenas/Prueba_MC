@@ -2,3 +2,6 @@ Jeniffer Yusbely Dueñas García
 
 Programación Avanzada 
 6to Semestre
+
+Informe del Git para Fin de Ciclo 
+Informe sobre los pasos que seguirá el equipo de desarrollo de GitHub para sincronizar con el VSCode.
