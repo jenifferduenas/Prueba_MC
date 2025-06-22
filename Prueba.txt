@@ -1,4 +1,4 @@
-¡HOLA MUNDO!
+Jeniffer Yusbely Dueñas García 
 
-Informe de Git para Fin de Ciclo.
-Informe sobre los pasos que seguirá el equipo de desarrollo en gitHub
+Programación Avanzada 
+6to Semestre
